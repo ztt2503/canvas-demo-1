@@ -1,9 +1,9 @@
 * {
   margin: 0;
   padding: 0;
-  border-sizing: border-box;
+  box-sizing: border-box;
 }
 #canvas {
-  height: 100vh;
   border: 1px solid red;
+  display: block;
 }
